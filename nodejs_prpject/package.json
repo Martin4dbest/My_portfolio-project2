@@ -1,0 +1,14 @@
+{
+  "name": "nodejs_project",
+  "version": "20.2.0",
+  "description": "a nodejs project",
+  "main": "index.js",
+  "scripts": {
+    "test": "file1.js"
+  },
+  "author": "Martin Agoha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
