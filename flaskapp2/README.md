@@ -1,5 +1,5 @@
 # Flask Web App for Harmony4dbest Bootcamp
-## Setup & Installation
+## Setup & Installationd
 
 Make sure you have the latest version of Python installed.
 
